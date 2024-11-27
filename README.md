@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Manages security risk**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Creatorofculture/Creatorofculture](https://github.com/Creatorofculture/Creatorofculture)
+- 👨‍💻 All of my projects are available at [https://github.com/Creatorofculture/Creatorofculture](https://github.com/Creatorofculture
 
 - 💬 Ask me about **Frameworks, control and CIA triad**
 
