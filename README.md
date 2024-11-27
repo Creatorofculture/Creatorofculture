@@ -40,5 +40,5 @@ In progress
 
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Portfolio Activity: Conduct a security audit
+
