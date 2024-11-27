@@ -1,12 +1,12 @@
 # Hello, I'm Edson Moreira
 <a href="https://linkedin.com/in/edson-moreira-bb941833a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am currently studying Cybersecurity with a profound interest Developing strategies to protect organizations from cyber-attacks and disruptions. and a dedication to solving complex problems.
+I am currently studying Cybersecurity with a profound interest in developing strategies to protect organizations from cyber-attacks and disruptions and a dedication to solving complex problems.
 
 ## Objective
 
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center.
+My journey in computer science has led me to develop a passion for cybersecurity and I am now eager to transition into this field, specifically aiming to join a Security Operations Center.
 
 ## Skills
 
