@@ -12,8 +12,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Foundations of Cybersecurity         | <a href="https://google.com">foundations-of-cybersecurity?specialization=google-cybersecurity</a>|
-| Frameworks and controls              | <a href="https://google.com">Detection Lab</a>|
+| Foundations of Cybersecurity         | <a href="https://www.coursera.org/learn/foundations-of-cybersecurity?specialization=google-cybersecurity">foundations</a>|
+| Frameworks and controls              | <a href="https://www.coursera.org/learn/manage-security-risks?specialization=google-cybersecurity">audit</a>|
 | The CIA tiad: confidenciality, integrity and avialability        |  <a href="https://google.com"> SOC Automation Lab|
 | NIST frameworks    | SOC Automation Lab|
 
