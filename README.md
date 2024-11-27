@@ -36,9 +36,8 @@ In progress
 <div>
 <img src="https://img.shields.io/badge/Coursera-004F8C?style=for-the-badge&logo=coursera&logoColor=white" />
 <img src="https://img.shields.io/badge/Coursera-004F8C?style=for-the-badge&logo=coursera&logoColor=white" />
-<img https://coursera.org/share/8bc16f2c786c39d2cf217f9f3c18e311
-
-
+<img src="https://coursera.org/share/8bc16f2c786c39d2cf217f9f3c18e311/https://img.shields.io/badge/Coursera-004F8C?style=for-the-badge&logo=coursera&logoColor=white" />
+<div>
 
 
 
