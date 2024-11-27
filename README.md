@@ -15,7 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Foundations of Cybersecurity         | <a href="https://www.coursera.org/learn/foundations-of-cybersecurity?specialization=google-cybersecurity">foundations</a>|
 | Frameworks and controls              | <a href="https://www.coursera.org/learn/manage-security-risks?specialization=google-cybersecurity">audit</a>|
 | The CIA tiad: confidenciality, integrity and avialability        |  <a href="https://www.coursera.org/learn/manage-security-risks?specialization=google-cybersecurity">audit</a>|
-| NIST frameworks    | <a href="https://www.coursera.org/learn/manage-security-risks?specialization=google-cybersecurity">audit</a>|
+| NIST frameworks   |  <a href="https://www.coursera.org/learn/manage-security-risks?specialization=google-cybersecurity">audit</a>|
 
 
 ## Tools
@@ -34,9 +34,10 @@ In progress
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/Coursera-004F8C?style=for-the-badge&logo=coursera&logoColor=white" />
-<img src="https://img.shields.io/badge/Coursera-004F8C?style=for-the-badge&logo=coursera&logoColor=white" />
-<img src="https://coursera.org/share/8bc16f2c786c39d2cf217f9f3c18e311/https://img.shields.io/badge/Coursera-004F8C?style=for-the-badge&logo=coursera&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-Cybersecurity-000080?&style=for-the-badge&logo=google-cloud&logoColor=white" />
+
+
 <div>
 
 
