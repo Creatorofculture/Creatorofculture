@@ -1,7 +1,7 @@
 # Hello, I'm Edson Moreira
 <a href="https://linkedin.com/in/edson-moreira-bb941833a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am currently studing Cybersecurity with a profound interest Developing strategies to protect organizations from cyber-attacks and disruptions. and a dedication to solving complex problems.
+I am currently studying Cybersecurity with a profound interest Developing strategies to protect organizations from cyber-attacks and disruptions. and a dedication to solving complex problems.
 
 ## Objective
 
