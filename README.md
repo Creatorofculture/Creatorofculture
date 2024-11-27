@@ -14,31 +14,22 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | Foundations of Cybersecurity         | <a href="https://www.coursera.org/learn/foundations-of-cybersecurity?specialization=google-cybersecurity">foundations</a>|
 | Frameworks and controls              | <a href="https://www.coursera.org/learn/manage-security-risks?specialization=google-cybersecurity">audit</a>|
-| The CIA tiad: confidenciality, integrity and avialability        |  <a href="https://google.com"> SOC Automation Lab|
-| NIST frameworks    | SOC Automation Lab|
+| The CIA tiad: confidenciality, integrity and avialability        |  <a href="https://www.coursera.org/learn/manage-security-risks?specialization=google-cybersecurity">audit</a>|
+| NIST frameworks    | <a href="https://www.coursera.org/learn/manage-security-risks?specialization=google-cybersecurity">audit</a>|
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+In pregress
 
 ### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
+In progress
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+In progress
 </div>
 
 ## Certifications
