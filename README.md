@@ -6,7 +6,7 @@ I am currently studying Cybersecurity with a profound interest in developing str
 ## Objective
 
 
-My journey in computer science has led me to develop a passion for cybersecurity and I am now eager to transition into this field, specifically aiming to join a Security Operations Center.
+My journey in computer science has leding me to develop a passion for cybersecurity and I am now eager to transition into this field, specifically aiming to join a Security Operations Center.
 
 ## Skills
 
