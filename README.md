@@ -14,7 +14,7 @@ My journey in computer science has leding me to develop a passion for cybersecur
 |-----------------------------------------------|----------------------------|
 | Foundations of Cybersecurity         | <a href="https://www.coursera.org/learn/foundations-of-cybersecurity?specialization=google-cybersecurity">foundations</a>|
 | Frameworks and controls              | <a href="https://www.coursera.org/learn/manage-security-risks?specialization=google-cybersecurity">audit</a>|
-| The CIA tiad: confidenciality, integrity and avialability        |  <a href="https://www.coursera.org/learn/manage-security-risks?specialization=google-cybersecurity">audit</a>|
+| The CIA tiad: confidenciality, integrity and avialability        |<a href="https://www.coursera.org/learn/manage-security-risks?specialization=google-cybersecurity">audit</a>|
 | NIST frameworks   |  <a href="https://www.coursera.org/learn/manage-security-risks?specialization=google-cybersecurity">audit</a>|
 
 
@@ -43,5 +43,5 @@ In progress
 
 
 ## Projects
-- Portfolio Activity: Conduct a security audit
 
+ | <a href="https://www.coursera.org/learn/manage-security-risks?specialization=google-cybersecurity">Security audit</a>|
