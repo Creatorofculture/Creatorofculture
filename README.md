@@ -19,23 +19,24 @@ My journey in computer science has leding me to develop a passion for cybersecur
 
 
 ## Tools
-In progress
+In process
 
 ### Network
 </div>
-In progress
+In process
 
 
 
 ### SIEM
 <div>
-In progress
+In process
 </div>
 
 ## Certifications
 <div>
 
 <img src="https://img.shields.io/badge/-Cybersecurity-000080?&style=for-the-badge&logo=google-cloud&logoColor=white" />
+
 
 
 <div>
